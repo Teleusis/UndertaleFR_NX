@@ -8,6 +8,6 @@ But I'm not a pro and I'm sire that I do some mistakes.
 Feel free to correct me :)
 
 Credits:
-Undertale Fr - https://undertale-fr.com/
-Undertale Mod Tool - https://github.com/krzys-h/UndertaleModTool
-TranslaTale - https://github.com/AlexWaveDiver/TranslaTale
+* Undertale Fr - https://undertale-fr.com/
+* Undertale Mod Tool - https://github.com/krzys-h/UndertaleModTool
+* TranslaTale - https://github.com/AlexWaveDiver/TranslaTale
